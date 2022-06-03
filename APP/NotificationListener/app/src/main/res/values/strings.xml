@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationListener</string>
+    <string name="image_change_explanation">The image below changes when intercepted notification </string>
+    <string name="notification_listener_service">Notification Listener</string>
+    <string name="notification_listener_service_explanation">Enable notification now ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
